@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">customtoolbar</string>
+    <string name="can_not_be_null">can not be null.</string>
+    <string name="search">جستجو</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomToolbar">
+        <attr name="isSearchSupported" format="boolean" />
+        <attr name="toolbarTextTile" format="reference" />
+        <attr name="toolbarTextColor" format="reference" />
+        <attr name="hintTextColor" format="reference" />
+        <attr name="hintText" format="reference" />
+        <attr name="normalToolbarBackGround" format="reference" />
+        <attr name="searchToolbarBackGround" format="reference" />
+    </declare-styleable>
+</resources>
